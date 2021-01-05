@@ -8,10 +8,10 @@ const qS = function (text) {
   return document.querySelector(`.${text}`);
 };
 
-// ---- For Again Button
+// For Again Button
 qS("again").addEventListener("click", function () {
   // again actions
-  location.reload();
+  window.location.reload();
 });
 
 // For Check Button
