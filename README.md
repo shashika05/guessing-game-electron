@@ -1,4 +1,4 @@
-# guess-the-number
+# guessing-game-electron
 
 My first github repo and also first electron app.
 
